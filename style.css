@@ -1,0 +1,49 @@
+h1{color:#F98E90;}
+h2{color:#F98E90;}
+
+body{ background-color:#E3E8F8
+;
+}
+a{text-decoration:none;
+color:#005691;}
+
+body {
+  font-family: 'Open Sans', Bebas Neue;
+  font-weight: 300;
+  font-size:15px;
+  line-height: 1;
+  color:#005691;
+  text-align:center;
+}
+
+.container {
+  width: 600px;   /* This sets the width */
+  margin: 0 auto;
+  color:grey;/* This automatically sets left/right margins */
+  border-radius:100px;
+}
+
+.movie{
+  background:white;
+  margin: 20px;
+  padding: 20px;
+}
+
+.MOI{
+  background:white;
+  margin: 20px;
+}
+.Reseaux{
+  margin: 20px;
+  background:white;
+  font-size:30px;
+
+}
+.YO{
+  border-radius:20px;
+}
+.FB > li{
+  display: inline-block;
+  padding: 40px;
+}
+
